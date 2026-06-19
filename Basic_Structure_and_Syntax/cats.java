@@ -1,4 +1,4 @@
-package FACTSABOUTCAT;
+package Basic_Structure_and_Syntax;
 
 public class cats {
     public static void main(String[] args) {
